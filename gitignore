@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and sensitive config
+.env
+
+# Output logs and scraped data
+profiles1.txt
+*.log
+
+# Virtual environments
+venv/
+.env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Selenium screenshots or downloads (if added later)
+screenshots/
+downloads/
