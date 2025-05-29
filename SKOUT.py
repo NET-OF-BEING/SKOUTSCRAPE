@@ -27,10 +27,6 @@ def log(message):
 # === SELENIUM CONFIGURATION ===
 
 # Define paths to the ChromeDriver binary, Chrome executable, and user data profile directory
-#chrome_driver_path = r"C:\Users\DEREK\PythonScripts\SKOUT\chromedriver.exe"
-#chrome_binary_path = r"C:\Users\DEREK\Downloads\chrometesting136\chrome-win64\chrome.exe"
-#user_data_dir = r"C:\Users\DEREK\PythonScripts\SKOUT\chrome_user_data"
-
 chrome_driver_path = os.getenv("CHROME_DRIVER_PATH")
 chrome_binary_path = os.getenv("CHROME_BINARY_PATH")
 user_data_dir = os.getenv("USER_DATA_DIR")
