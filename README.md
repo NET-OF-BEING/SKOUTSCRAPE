@@ -107,6 +107,8 @@ profiles1.txt
 
 ---
 
+Disclaimer: Please note that this is a research project. I am by no means responsible for any usage of this tool. Use it on your behalf. I'm also not responsible if your accounts get banned due to the extensive use of this tool.
+
 ## ✅ License
 
 MIT License – Feel free to use and adapt, but respect Skout's platform terms.
